@@ -16,7 +16,6 @@ flowchart LR
         procrastivity[procrastivity.fm]
         hyposite[hypomnema.io]
         dabble[dabblegangers.com]
-        obsidian-sync-to-git[]
     end
 
     subgraph "Content tooling"
