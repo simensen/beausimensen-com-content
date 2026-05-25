@@ -7,7 +7,7 @@ slug: now
 
 A running map of what I'm **juggling**. Updated occasionally — mostly so I can remember where I "am."
 
-If a project isn't on here, I'm probably not actually working on it right now.
+If a project isn't on here, I'm probably not actually working on it right now. Or I simply for
 
 ```mermaid
 flowchart LR
