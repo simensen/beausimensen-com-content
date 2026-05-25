@@ -1,7 +1,7 @@
 ---
 title: What I'm working on now
 description: A snapshot of current projects, grouped by area
-updated: 2026-05-23
+updated: 2026-05-24
 slug: now
 ---
 
