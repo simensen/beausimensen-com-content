@@ -12,9 +12,8 @@ If a project isn't on here, I'm probably not actually working on it right now.
 ```mermaid
 flowchart LR
     subgraph Sites
+        beausimensen[procrastivity.fm]
         procrastivity[procrastivity.fm]
-        hyposite[hypomnema.io]
-        dabble[dabblegangers.com]
     end
 
     subgraph "Content tooling"
