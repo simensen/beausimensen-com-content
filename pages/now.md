@@ -28,7 +28,7 @@ flowchart LR
     classDef shipped fill:#EAF3DE,stroke:#639922,color:#173404
     classDef active fill:#FAEEDA,stroke:#BA7517,color:#412402
     class gethmn shipped
-    class beausimensen,procrastivity,hypomnema active
+    class beausimensen,procrastivity,hypomnema,sync,bento active
 ```
 
 **Legend:** green = shipped · amber = in progress · plain = not yet started
