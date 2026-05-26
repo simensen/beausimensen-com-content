@@ -18,12 +18,9 @@ flowchart LR
 
     subgraph "Content tooling"
         hypomnema[Hypomnema]
-        bridge[Iris Vault Bridge]
-        vsync[Vault Sync]
     end
 
     subgraph Foundations
-        bones[astro-bones]
         sync[Obsidian sync]
         bento[Bento integration]
     end
