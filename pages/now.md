@@ -21,7 +21,7 @@ flowchart LR
         xcind[Xcind]
     end
 
-    subgraph "Content tooling"
+    subgraph "AI tooling"
         wip[wip]
         duo[duo]
         clast[clast]
