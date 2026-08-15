@@ -13,11 +13,9 @@ If a project isn't on here, I'm probably not actually working on it right now. O
 flowchart LR
     subgraph Products
         hypomnema[Hypomnema]
-        proxenos[Proxenos]
-        scind[Scind]
     end
 
-    subgraph ”AI tooling
+    subgraph Tooling
         wip[wip]
         duo[duo]
     end
