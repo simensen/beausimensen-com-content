@@ -11,7 +11,7 @@ If a project isn't on here, I'm probably not actually working on it right now. O
 
 ```mermaid
 flowchart LR
-    subgraph Sites
+    subgraph Tooling
         beausimensen[beausimensen.com]
         procrastivity[procrastivity.fm]
     end
