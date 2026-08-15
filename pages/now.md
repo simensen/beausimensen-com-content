@@ -12,8 +12,7 @@ If a project isn't on here, I'm probably not actually working on it right now. O
 ```mermaid
 flowchart LR
     subgraph Products
-        wip[wip]
-        duo[duo]
+        hypomnema[Hypomnema]
         hypomnema[Hypomnema]
     end
 
