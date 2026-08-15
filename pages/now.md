@@ -12,16 +12,11 @@ If a project isn't on here, I'm probably not actually working on it right now. O
 ```mermaid
 flowchart LR
     subgraph Products
-        hypomnema[Hypomnema]
-        proxenos[Proxenos]
+        wip[wip]
+        duo[duo]
     end
 
-    subgraph ”DX tooling”
-        scind[Scind]
-        xcind[Xcind]
-    end
-
-    subgraph ”AI tooling”
+    subgraph Tooling
         wip[wip]
         duo[duo]
     end
@@ -29,6 +24,10 @@ flowchart LR
     subgraph Sites
         beausimensen[beausimensen.com]
         procrastivity[procrastivity.fm]
+    end
+
+    subgraph "Content tooling"
+        hypomnema[Hypomnema]
     end
 
     subgraph Foundations
@@ -39,7 +38,7 @@ flowchart LR
     classDef shipped fill:#EAF3DE,stroke:#639922,color:#173404
     classDef active fill:#FAEEDA,stroke:#BA7517,color:#412402
     class gethmn shipped
-    class beausimensen,procrastivity,hypomnema,sync,bento,xcind active
+    class beausimensen,procrastivity,hypomnema,sync,bento active
 ```
 
 **Legend:** green = shipped · amber = in progress · plain = not yet started
