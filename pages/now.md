@@ -16,6 +16,11 @@ flowchart LR
         duo[duo]
     end
 
+    subgraph Tooling
+        wip[wip]
+        duo[duo]
+    end
+
     subgraph Sites
         beausimensen[beausimensen.com]
         procrastivity[procrastivity.fm]
