@@ -16,12 +16,12 @@ flowchart LR
         proxenos[Proxenos]
     end
 
-    subgraph "Content tooling"
+    subgraph "DX tooling"
         scind[Scind]
         xcind[Xcind]
     end
 
-    subgraph “AI tooling”
+    subgraph "Content tooling"
         wip[wip]
         duo[duo]
         clast[clast]
