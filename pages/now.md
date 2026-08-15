@@ -13,7 +13,7 @@ If a project isn't on here, I'm probably not actually working on it right now. O
 flowchart LR
     subgraph Tooling
         wip[wip]
-        procrastivity[procrastivity.fm]
+        duo[duo]
     end
 
     subgraph Sites
