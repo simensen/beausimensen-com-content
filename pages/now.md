@@ -18,7 +18,7 @@ flowchart LR
 
     subgraph ”DX tooling”
         scind[Scind]
-        xcind[Xc]
+        xcind[Xcind]
     end
 
     subgraph ”AI tooling”
