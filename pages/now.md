@@ -12,7 +12,7 @@ If a project isn't on here, I'm probably not actually working on it right now. O
 ```mermaid
 flowchart LR
     subgraph Tooling
-        beausimensen[beausimensen.com]
+        wip[wip]
         procrastivity[procrastivity.fm]
     end
 
