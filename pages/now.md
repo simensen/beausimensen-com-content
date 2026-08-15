@@ -19,6 +19,7 @@ flowchart LR
     subgraph Tooling
         wip[wip]
         duo[duo]
+        hypomnema[Hypomnema]
     end
 
     subgraph Sites
@@ -27,7 +28,6 @@ flowchart LR
     end
 
     subgraph "Content tooling"
-        hypomnema[Hypomnema]
     end
 
     subgraph Foundations
