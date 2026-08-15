@@ -17,7 +17,12 @@ flowchart LR
         scind[Scind]
     end
 
-    subgraph ”AI tooling
+    subgraph ”AI tooling”
+        wip[wip]
+        duo[duo]
+    end
+
+    subgraph ”AI tooling”
         wip[wip]
         duo[duo]
     end
