@@ -14,12 +14,12 @@ flowchart LR
     subgraph Products
         wip[wip]
         duo[duo]
+        hypomnema[Hypomnema]
     end
 
     subgraph Tooling
         wip[wip]
         duo[duo]
-        hypomnema[Hypomnema]
     end
 
     subgraph Sites
