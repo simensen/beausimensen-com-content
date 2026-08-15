@@ -14,6 +14,7 @@ flowchart LR
     subgraph Products
         hypomnema[Hypomnema]
         proxenos[Proxenos]
+        scind[Scind]
     end
 
     subgraph Tooling
