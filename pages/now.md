@@ -14,12 +14,11 @@ flowchart LR
     subgraph Products
         hypomnema[Hypomnema]
         proxenos[Proxenos]
-        scind[Scind]
     end
 
-    subgraph ”AI tooling”
-        wip[wip]
-        duo[duo]
+    subgraph ”DX tooling”
+        scind[Scind]
+        xcind[Xc]
     end
 
     subgraph ”AI tooling”
