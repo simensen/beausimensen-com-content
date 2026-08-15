@@ -24,6 +24,7 @@ flowchart LR
     subgraph ”AI tooling”
         wip[wip]
         duo[duo]
+        clast[clast]
     end
 
     subgraph Sites
@@ -39,7 +40,7 @@ flowchart LR
     classDef shipped fill:#EAF3DE,stroke:#639922,color:#173404
     classDef active fill:#FAEEDA,stroke:#BA7517,color:#412402
     class gethmn shipped
-    class beausimensen,procrastivity,hypomnema,sync,bento,xcind,scind,wip,duo,proxenos active
+    class beausimensen,procrastivity,hypomnema,sync,bento,xcind,scind,wip,duo,proxenos,clast active
 ```
 
 **Legend:** green = shipped · amber = in progress · plain = not yet started
