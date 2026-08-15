@@ -16,6 +16,11 @@ flowchart LR
         procrastivity[procrastivity.fm]
     end
 
+    subgraph Sites
+        beausimensen[beausimensen.com]
+        procrastivity[procrastivity.fm]
+    end
+
     subgraph "Content tooling"
         hypomnema[Hypomnema]
     end
