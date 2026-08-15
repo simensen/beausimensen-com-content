@@ -27,9 +27,6 @@ flowchart LR
         procrastivity[procrastivity.fm]
     end
 
-    subgraph "Content tooling"
-    end
-
     subgraph Foundations
         sync[Obsidian sync]
         bento[Bento integration]
